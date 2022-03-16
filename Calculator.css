@@ -1,0 +1,72 @@
+.b1{
+    margin :0;
+    padding: 0;
+    background-color:tomato;
+}
+
+.ee
+{
+    width:500px;
+    text-align: center;
+     margin-left: 700px;
+     padding-top: 100px;
+    padding-bottom: 100px;
+    background-color:rgb(46, 216, 159);
+    border-radius: 20px;
+    border-color:tomato;
+    
+    
+    
+
+
+
+
+}
+.btndesign{
+    background-color:tomato;
+    color:white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    border-radius: 30px;
+    font-size: 2rem;
+    margin: 1.5;
+    box-shadow: none;
+    
+}
+.operatordesign
+{
+    background-color:tomato;
+    color:white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    border-radius: 30px;
+    font-size: 2rem;
+    margin: 1.5;
+    cursor: pointer;
+}
+
+#zero
+{
+    background-color:tomato;
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    border-radius: 30px;
+    font-size: 2rem;
+    width: 110;
+}
+
+
+#display
+{
+    background-color:whitesmoke;
+    text-transform: capitalize;
+    font-family: sans-serif;
+    color: black;
+    border-radius: 18px;
+    font-size: 30px;
+    width: 245px;
+    border: none;
+    border: 2px solid white;
+    border-color: tomato;
+}
